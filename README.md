@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/miromiro-2017/miromiro-2017.png?label=ready&title=Ready)](https://waffle.io/miromiro-2017/miromiro-2017?utm_source=badge)
+[![Stories in Ready](https://badge.waffle.io/miromiro-2017/miromiro-2017.png?label=ready&title=Ready)](https://waffle.io/miromiro-2017/miromiro-2017?utm_source=badge)
 # Miromiro 2017
 
 Kia ora.
